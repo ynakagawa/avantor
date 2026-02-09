@@ -1,0 +1,1417 @@
+{
+  "originUrl": "https://www.spglobal.com",
+  "aborted": false,
+  "lastCrawled": "https://www.spglobal.com/mobility/en/index.html",
+  "urls": [
+    {
+      "url": "https://www.spglobal.com/automotive-insights/en/rapid-impact-analysis",
+      "source": "CRAWL",
+      "targetPath": "/automotive-insights/en/rapid-impact-analysis",
+      "id": "85b0b9b3829e6ee5edc3ade246b74d28f372bc4b"
+    },
+    {
+      "url": "https://www.spglobal.com/automotive-insights/en/theme/electric-vehicle-industry",
+      "source": "CRAWL",
+      "targetPath": "/automotive-insights/en/theme/electric-vehicle-industry",
+      "id": "6e5be8b3421551f0289864dbb5e0f5952bc12117"
+    },
+    {
+      "url": "https://www.spglobal.com/automotive-insights/en/theme/future-of-mobility",
+      "source": "CRAWL",
+      "targetPath": "/automotive-insights/en/theme/future-of-mobility",
+      "id": "e0afb8ceb431372e031b12a683df03f3d73981bd"
+    },
+    {
+      "url": "https://www.spglobal.com/commodity-insights/en/products-solutions/delivery/platts-connect",
+      "source": "CRAWL",
+      "targetPath": "/commodity-insights/en/products-solutions/delivery/platts-connect",
+      "id": "30249460a4f36b9c882c8eb07676747b9d109832"
+    },
+    {
+      "url": "https://www.spglobal.com/en",
+      "source": "CRAWL",
+      "targetPath": "/en",
+      "id": "615ccdf054749f7d23e226e30f41602f0a78d5a8"
+    },
+    {
+      "url": "https://www.spglobal.com/en/cookie-notice",
+      "source": "CRAWL",
+      "targetPath": "/en/cookie-notice",
+      "id": "9e84117c288b393e2b30d7e9bf52f97a68efa034"
+    },
+    {
+      "url": "https://www.spglobal.com/en/daily-update-newsletter-subscription-request",
+      "source": "CRAWL",
+      "targetPath": "/en/daily-update-newsletter-subscription-request",
+      "id": "743a9d29cf8445d0403bd4a79ae8ba5bb2fe8d05"
+    },
+    {
+      "url": "https://www.spglobal.com/en/esg-statements",
+      "source": "CRAWL",
+      "targetPath": "/en/esg-statements",
+      "id": "89e50f694c98d8777f6df9c65de7826c72237668"
+    },
+    {
+      "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-culture",
+      "source": "CRAWL",
+      "targetPath": "/en/explore-s-p-global/careers/our-culture",
+      "id": "8065c95bccdbc7175e329b7b17c6e9e18e17e58e"
+    },
+    {
+      "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-work",
+      "source": "CRAWL",
+      "targetPath": "/en/explore-s-p-global/careers/our-work",
+      "id": "fd67ce92fce415742b27c5efaf88f8edb090c190"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/technology-solutions",
+      "source": "CRAWL",
+      "targetPath": "/en/products/technology-solutions",
+      "id": "4fc3db411fef75ff363d2830c91a2d219f0fa60d"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/credit-risk",
+      "source": "CRAWL",
+      "targetPath": "/en/products/topics/credit-risk",
+      "id": "bca7643443d70dd6a250df53794b71fab6c53cd1"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/energy-transition",
+      "source": "CRAWL",
+      "targetPath": "/en/products/topics/energy-transition",
+      "id": "a4dad8be5f0d528fa87e49ffadb8baa095ef58ea"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/private-markets",
+      "source": "CRAWL",
+      "targetPath": "/en/products/topics/private-markets",
+      "id": "385b3d415a55817d6cc27a58fe16b94a69d6a593"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/technology-ai",
+      "source": "CRAWL",
+      "targetPath": "/en/products/topics/technology-ai",
+      "id": "c65b7017ca4b204fdf1f8e6974b8a8a6fb602d0f"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/lu-daokuan",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/experts/lu-daokuan",
+      "id": "ac0b74d1a583b4d58509af54aeb37f49accb071e"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/song-hui",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/experts/song-hui",
+      "id": "239975c63546072649e9c1d941d6d3bb5da2e620"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/yang-jie",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/experts/yang-jie",
+      "id": "d6d9e35b5a0e78dc7bb0c03e370a3c6053be6e86"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/zhang-jessie",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/experts/zhang-jessie",
+      "id": "c14a3b6e63c007dc12d81faf473dc52f3ecec7da"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/capital-markets",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/market-insights/capital-markets",
+      "id": "3ffd9272249e5c75f267972c5b40a63855258616"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/podcasts",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/podcasts",
+      "id": "1527847f6fd7077ae608a23d0146a520a32d47cb"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/special-reports",
+      "id": "b9af754670c5de98820ab96cbee7c5e20ab5dba9"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/look-forward-volume-5",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/special-reports/look-forward/look-forward-volume-5",
+      "id": "238df7561eb4edd6a75455c7c2e79902a08197de"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/look-forward-volume-6",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/special-reports/look-forward/look-forward-volume-6",
+      "id": "5bdd1f1f672af5f2ac5c97aabde67fa5de6741bb"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/the-ai-governance-challenge",
+      "source": "CRAWL",
+      "targetPath": "/en/research-insights/special-reports/the-ai-governance-challenge",
+      "id": "a65b6e85a0413edb8fe491dc74182c17d25b6df7"
+    },
+    {
+      "url": "https://www.spglobal.com/en/spgi-newsletter-subscription-request",
+      "source": "CRAWL",
+      "targetPath": "/en/spgi-newsletter-subscription-request",
+      "id": "563240550382657b5487668ae1c6d558f03efbfc"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/reports-commitments",
+      "source": "CRAWL",
+      "targetPath": "/en/who-we-are/corporate-responsibility/reports-commitments",
+      "id": "01b4abbef3796064b2d2a397a15c0fe3432d6180"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/culture-engagement",
+      "source": "CRAWL",
+      "targetPath": "/en/who-we-are/culture-engagement",
+      "id": "14867d6bb91504a5fb85e7bd852d7a018f663766"
+    },
+    {
+      "url": "https://www.spglobal.com/market-intelligence/en",
+      "source": "CRAWL",
+      "targetPath": "/market-intelligence/en",
+      "id": "e12231c0ff3800bb1ed5339932bea3ec41a8d4c1"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=442940",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/forms/contactinformation",
+      "id": "4353dd6eef44bd853f94f28ce559c70de2297ce4"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=442940&amp;subDivision=/mobility/en",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/forms/contactinformation",
+      "id": "456a51a7b7949cf907dacf38f8f2c0d2c220ccd6"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=449373&amp;subDivision=/mobility/en",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/forms/contactinformation",
+      "id": "b1d9d3c6f85323572e46097f209277fe613d78be"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/index.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en",
+      "id": "5a82bef53f8aa17132feb5b9c4056928cdcadd5f"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive",
+      "id": "3763bc4aab2406758a27fe67500b05f391ae9295"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/asean-autopodcast.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/asean-autopodcast",
+      "id": "ace1bb810d8520430d5d1693b9340dfcd1453cd7"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/auto-safety-systems-calibration-challenges-and-opportunities.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/auto-safety-systems-calibration-challenges-and-opportunities",
+      "id": "86b775c1005b4a1a86eeb87399b93f92626fd6dc"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-are-recalls-a-thing-of-the-past.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-are-recalls-a-thing-of-the-past",
+      "id": "99e4af17668b7cc5b885d03109b8a846abc7a0ce"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ceraweek-2025.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-ceraweek-2025",
+      "id": "50e6d39672b3e9c18f9d141f75e3057847f44ea3"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ces-day-1-recap.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-ces-day-1-recap",
+      "id": "808892407225c40c3c5328d6c18f3957d76fa060"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ces-thursday-recap.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-ces-thursday-recap",
+      "id": "5158aa0747be0f2eecab16578811618eb6181df9"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-charging-trends.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-charging-trends",
+      "id": "905b2201141137aa979a7d91373e79b056e3be84"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-e-motor-technology-and-the-evolution-of-the-e-axle.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-e-motor-technology-and-the-evolution-of-the-e-axle",
+      "id": "ccefb29ea681db15e7aae4fffee326c278289fec"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-embracing-electric-future-transportation.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-embracing-electric-future-transportation",
+      "id": "648f350c19363e70ca6f25b370dd205489b4aecc"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-holograms-in-motion.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-holograms-in-motion",
+      "id": "3ef1b81c303437e3e8d027963d2bcc4aa9c255a1"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-kitt-for-cars-making-ai-a-reality.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-kitt-for-cars-making-ai-a-reality",
+      "id": "f0c840ec9a4c88227735ad106734782c600c3148"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-risk-analysis-of-building-gigafactories-in-europe.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-risk-analysis-of-building-gigafactories-in-europe",
+      "id": "35520712efe7f780bd555e3e27a3c75f3e0a7f8b"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-shifting-dynamics-in-the-lithium-iron-phosphate-battery-market.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-shifting-dynamics-in-the-lithium-iron-phosphate-battery-market",
+      "id": "fc60be170a6cd0c95d73a13e3f11ff97b9a260bd"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-the-future-of-automotive-lighting.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/autology-the-future-of-automotive-lighting",
+      "id": "6427fbda1d9a516825bb5aed6f91b863e61d3db4"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/charging-up-australias-ev-future-automotive-market-dynamics.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/charging-up-australias-ev-future-automotive-market-dynamics",
+      "id": "775c8ae39a155729fb036e038f0783d707481ac8"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/charting-the-course-for-the-future-of-trucking.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/charting-the-course-for-the-future-of-trucking",
+      "id": "86a3826aeb6a6ddf681af27041a16cdaf54150b6"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/commercial-vehicle-fleet-accelerates-zev-adoption.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/commercial-vehicle-fleet-accelerates-zev-adoption",
+      "id": "e912aeba28a78643a9cdcb85630af43b98f94beb"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ep-6-accelerating-the-future-indias-mobility-transformation.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/ep-6-accelerating-the-future-indias-mobility-transformation",
+      "id": "4b196cfd520d8ae87e12e7cf0596f5d6191dacf0"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ev-competition-rising-exports-the-china-auto-talk.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/ev-competition-rising-exports-the-china-auto-talk",
+      "id": "c7feb16c000ec627de37c8199b4d3672b05adc21"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/from-aspiration-to-reality-building-the-trail-to-vehicle-electrification.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/from-aspiration-to-reality-building-the-trail-to-vehicle-electrification",
+      "id": "93d099d75eda3060b65d53c9d88cc3a3529f0027"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-2024-presidential-election-impacts-us-auto-industry.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-2024-presidential-election-impacts-us-auto-industry",
+      "id": "5cf9538c9809bbc186ed18cb90331745d5dc836d"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-a-more-practical-future-for-autonomous-vehicles.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-a-more-practical-future-for-autonomous-vehicles",
+      "id": "ef5a462595909700533240537255a1033b38aa83"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e10-detroit-auto-show-2022-an-industry-in-transition.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s4-e10-detroit-auto-show-2022-an-industry-in-transition",
+      "id": "a73f52ba530b6d8f19faebe56b8f0ef5410fa0df"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e12.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s4-e12",
+      "id": "35670470bdcdd37e9af3b9a2b12a4b855d0ea13d"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e13-global-mobility-forecasts-836m-units-in-2023.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s4-e13-global-mobility-forecasts-836m-units-in-2023",
+      "id": "08e9d6f50a92c350ad95b8b6420bc38a629a3ce8"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e12-connected-cars-and-the-automotive-revolution.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s5-e12-connected-cars-and-the-automotive-revolution",
+      "id": "87246ce81648e238c3e08714b57693988d03c38a"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e2-old-way-selling-cars-wont-work.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s5-e2-old-way-selling-cars-wont-work",
+      "id": "21c0bd91d1d8cdb814646996f5c9c22357ade1bb"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e4-industry-goes-electric-expect-shakeout.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s5-e4-industry-goes-electric-expect-shakeout",
+      "id": "65c59100c8210872d60b8af9671b88dff9786118"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s6-e5-9-highlights-from-our-recent-consumer-survey-on-autonomous.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-s6-e5-9-highlights-from-our-recent-consumer-survey-on-autonomous",
+      "id": "d3852d18b8e96e1075a80c29edc7418cf887a164"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-tariffs-taxes-evs-road-ahead-global-auto-industry.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/fuel-for-thought-tariffs-taxes-evs-road-ahead-global-auto-industry",
+      "id": "a600126256feb7123bbb8e0c3674be3b6fef2dc8"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/learnings-from-an-established-sustainable-supply-chain.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/learnings-from-an-established-sustainable-supply-chain",
+      "id": "47850217483e006a1f3ab72b0c41208a4adafdca"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/letting-go-consumer-sentiments-towards-automated-driving.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/letting-go-consumer-sentiments-towards-automated-driving",
+      "id": "9319e49a641173ec06e883317f738b4638e09ec7"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/low-voltage-batteries-for-an-electrified-future.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/low-voltage-batteries-for-an-electrified-future",
+      "id": "0963db4353e1a81b668c25a59e06e8a9a7389805"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/mapping-the-market-what-direction-are-navigation-systems-heading.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/mapping-the-market-what-direction-are-navigation-systems-heading",
+      "id": "9f0237159fdbd2938d79f43aeb8e8126d631a3e1"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/paris-motor-show-a-recap.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/paris-motor-show-a-recap",
+      "id": "9eebbf196a2571163605e499f8021a506e71f166"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/reality-bites-on-owning-automotive-os.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/reality-bites-on-owning-automotive-os",
+      "id": "91e06c737279977064661de6b12a88177ed45f29"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/robotaxi-whats-the-latest-on-driverless-cars.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/robotaxi-whats-the-latest-on-driverless-cars",
+      "id": "ed298212737d4781809e2b41676e387af41be8be"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/securing-raw-materials-in-the-eu.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/securing-raw-materials-in-the-eu",
+      "id": "5b6cb9f611b91b446ad0ae5f9b9b825cd7bd6ec8"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/transformation-of-auto-retail.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/transformation-of-auto-retail",
+      "id": "579713ffed728afea9fb2ffa928637a338856b45"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/warning-signs-path-to-mass-ev-adoption.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/podcasts/automotive/warning-signs-path-to-mass-ev-adoption",
+      "id": "5f0777aab86c31cf0ef3de68e83410abe3c19679"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/auto-makers.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/auto-makers",
+      "id": "343e7b2b8010a407af4653de38faacb82c7598ab"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/auto-private-offer-studio.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/auto-private-offer-studio",
+      "id": "f56e1acd919b3fb6632f0ef6a4ee3d54aa1b6c80"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/autocreditinsight.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/autocreditinsight",
+      "id": "9806264337418b2825a7984c5874044ec2d6551c"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/autointelligence-suite.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/autointelligence-suite",
+      "id": "73fe9cd1613cab04ca38c91e3c77593237c6c63a"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-consulting-services.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/automotive-consulting-services",
+      "id": "86efedf2b26f26cb0e796266f19c8fbbc9c4c73e"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-loyalty-conquest-analytics.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/automotive-loyalty-conquest-analytics",
+      "id": "bfa67f946b9e9adac464a19ab30f11bd19f93150"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/digital-automotive.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/digital-automotive",
+      "id": "b1d671018072d649b2288bad08bc185dd0256df1"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/fleet-audiences.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/fleet-audiences",
+      "id": "1820e22790ba922da14d52abc8409fc447cbfe3c"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/global-auto-demand-tracker.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/global-auto-demand-tracker",
+      "id": "b0a42d023430d5f1c48922d6da25d82c9be1d6b9"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/marketing-activation.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/marketing-activation",
+      "id": "0540b691301d6a319cbe15d79cf96e85ce800148"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/marketing-sales-dealer.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/marketing-sales-dealer",
+      "id": "9ffa965df44acb477fd100718833be442585daa5"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-energy-and-utilities.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/mobility-intelligence-for-energy-and-utilities",
+      "id": "a63c90c3a33e0333e92d3abfafde134b3b4be961"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-logistics-companies.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/mobility-intelligence-for-logistics-companies",
+      "id": "524b21a8c356356831c3a7cc4b19abf3735eca60"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-technology-companies.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/mobility-intelligence-for-technology-companies",
+      "id": "e81490f5701d1276e4ecf8a552393b85c3cae57e"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobilityinsight.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/mobilityinsight",
+      "id": "8e9a1691ab38ea26f61646cb4a844144c6ed274d"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/parts-demand-and-fitment.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/parts-demand-and-fitment",
+      "id": "cbb89a6f838bcf07e02b2d159b91007796fcbd18"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/sales-optimization.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/sales-optimization",
+      "id": "e77c0c9976f964f750a0ed6e9facec93188f8fb4"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/suppliers-aftermarket.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/suppliers-aftermarket",
+      "id": "00fb026de49e60973b0f497cb766f6a794688203"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/technology-vio.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/technology-vio",
+      "id": "6a00eae65f133eb9e047d73e114824f7a0cbb96b"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/worldview.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/products/worldview",
+      "id": "7b85f6dc0d6f29523398ad4e13aee24e996cff9b"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/research-analysis/fuel-for-thought-the-road-to-transformation-charting-the-cours.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/research-analysis/fuel-for-thought-the-road-to-transformation-charting-the-cours",
+      "id": "e72695a2fad962008eac2663e10585cad03ea7b8"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/research-analysis/trucking-in-transition-potential-impacts-of-2025-policy-change.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/research-analysis/trucking-in-transition-potential-impacts-of-2025-policy-change",
+      "id": "b847f94d9663947e9985bea141d5ead3bed72633"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/solutions/ev-charging-infrastructure.html",
+      "source": "CRAWL",
+      "targetPath": "/mobility/en/solutions/ev-charging-infrastructure",
+      "id": "9c7a71c7134782043c7d887fcc35f3c1169bec8b"
+    },
+    {
+      "url": "https://www.spglobal.com/sustainable1/en/events",
+      "source": "CRAWL",
+      "targetPath": "/sustainable1/en/events",
+      "id": "518381ddae15cf59bc860407b83b629ede9f6b58"
+    },
+    {
+      "url": "https://www.spglobal.com/zh",
+      "source": "CRAWL",
+      "targetPath": "/zh",
+      "id": "ff9d0e267f947d634de1b036168870765f98a395"
+    },
+    {
+      "url": "https://www.spglobal.com/zh/spg-wechat-article",
+      "source": "CRAWL",
+      "targetPath": "/zh/spg-wechat-article",
+      "id": "6cdbcdba1b6fe830641b4855825d924d03275662"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.spglobal.com/commodityinsights/en/events",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/commodity-insights/en/events"
+    },
+    {
+      "url": "https://www.spglobal.com/commodityinsights/en/support/delivery-platforms/platts-connect",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/commodity-insights/en/products-solutions/delivery/platts-connect"
+    },
+    {
+      "url": "https://www.spglobal.com/en/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/index.html?i=Automotive",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts?i=Automotive"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/fang-claire.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/fang-claire"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/gerner-constantin.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/gerner-constantin"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/lu-daokuan.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/lu-daokuan"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/macrae-calum.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/macrae-calum"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/song-hui.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/song-hui"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/trommer-matt.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/trommer-matt"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/yang-jie.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/yang-jie"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/zeng-yan.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/zeng-yan"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/zhang-jessie.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/research-insights/experts/zhang-jessie"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/who-we-are"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts?i=Automotive",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/who-we-are/about-sp-global?i=Automotive"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/en/who-we-are/corporate-responsibility"
+    },
+    {
+      "url": "https://www.spglobal.com/marketintelligence/en/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/market-intelligence/en"
+    },
+    {
+      "url": "https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-advisory-services.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/mobility/en/products/automotive-consulting-services.html"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/physical-risk.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/mobility/en/products/automotive-physical-risk.html"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/auto-market-statistics-vio.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/mobility/en/products/industry-performance.html"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-dealer-network-development.html",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/mobility/en/products/retail-network-planning.html"
+    },
+    {
+      "url": "https://www.spglobal.com/ratings/en/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/ratings/en"
+    },
+    {
+      "url": "https://www.spglobal.com/esg/",
+      "status": "301 Moved Permanently Redirect: https://www.spglobal.com/sustainable1/en"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/index.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/login.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/spdji/en/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/commodity-insights/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/topic/automotive-industry.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/topic/automotive-insights-analysis.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/agencies-and-medias.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-financials.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-government-agencies.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-insurance-companies.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/vehicle-demand.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/vehicle-production.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/technology.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/sustainable-mobility.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/industry-performance.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/owner-notification.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/vehicle-identification.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/automotive-insights/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=268084",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/events/index.html?i=Automotive",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/events/index.html?filterby=In-Person&i=Automotive",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/events/index.html?filterby=Online&i=Automotive",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/events/index.html?filterby=On-Demand&i=Automotive",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/about/index.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/about-sp-global?i=Automotive",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/research-analysis/mobility-enhances-offerings-with-acquisition-of-market-scan.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/topic/electric-vehicle-trends.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-rare-earth-elements-china.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/steering-into-the-future-insights-from-NIO-and-ZF.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/wu-eileen.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/md-jan-tabish.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/donega-ariel.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/madhok-aman.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/about/contact-us.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/zeng-yan",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/Info/polk-privacy/statement.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/careers/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/our-history",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/press/press-release",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/terms-of-use",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/privacy/privacy-policy-english",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-brands-400.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-light-300.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-sharp-light-300.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-sharp-regular-400.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-thin-100.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-v4compatibility.woff2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/contact-us",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/search",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/ai-in-banking-ai-will-be-an-incremental-game-changer",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/the-return-of-energy-security",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/india-s-future-the-quest-for-high-and-stable-growth",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/ratings/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/sustainable1/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/fixed-income",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/topics/supply-chain",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/market-intelligence/en/solutions/products/sp-capital-iq-pro",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/sustainable1/en/solutions/esg-scores-data",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/ratings/en/products/ratings360",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/events/featured",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/events/webinar-replays",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/market-intelligence/en/events",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/ratings/en/events",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/spdji/en/events/in-person/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/explore-s-p-global/careers",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-commitment",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/data-analytics",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/research-insights",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/spdji/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/esg/solutions/data-intelligence-esg-scores",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/products/ratings-benchmarks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/sustainable1/en/solutions",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/energy-commodities",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/sustainability",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/artificial-intelligence",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/economy",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/global-trade",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/technology-innovation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/about-sp-global",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/about-sp-global/our-people/our-leadership",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/chief-client-office",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/our-history",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/capabilities",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/corporate-responsibility",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/foundation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/who-we-are/culture-engagement/people-resource-groups",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/podcasts/leaders",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/venture",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/contact-us/office-locations",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/Legal/privacy.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=268084&amp;subDivision=/mobility/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-carbon-accounting.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-physical-risk.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-dealer-solutions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=136285&amp;subDivision=/mobility/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/powertrain-and-compliance.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/mobility-and-energy-service.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/sun-jie.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/takasaki-masato.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/research-analysis/powertrain-and-investments-propel-americas-electrification.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/research-analysis/charting-the-course-for-the-future-of-trucking.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/Info/0720/vehicle-import-export.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-light-vehicle-sales-forecasts.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-light-vehicle-production-forecasts.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-component-forecasts-analysis.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/polk-automotive-solutions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-vin-interpretation-decoding.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/market-scan-automotive-payments-as-a-service.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/choate-julie.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/trommer-matt",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/gerner-constantin",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=449470&amp;subDivision=/mobility/en",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/commercial-vehicle-insight-intelligence.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-components-technologies.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-aftermarket-solutions.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/enterprise/experts/vittori-claudio.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/en/research-insights/experts/fang-claire",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/powersports.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/retail-network-planning.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/automotive-market-data-analysis.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/aftermarketinsight.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/commercial-vehicle-aftermarket-parts-report.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/products/vehicle-miles-traveled.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/forms/contactinformation.html?fid=268084",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-benchmarking-guide-software-defined-vehicles.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-interbattery-seoul-2025.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-bridging-gaps-carbon-reporting-automotive-industry.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-CES-2025-what-to-expect.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/the-rise-of-india-automotive-components-industry.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-chassis-matters-on-a-roll-with-zf.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/plugged-in-redefining-mobility-the-powertrain-perspective-of-south-korea.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-eu-tarriffs-impact-battery-electric-vehicle-market.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/toyotas-trailblazing-strategy-infusing-advanced-green-technologies-and-sustainability-in-product-development.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/oems-and-captive-lenders-face-new-challenges.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/japans-carmakers-navigating-domestic-and-global-markets.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/electrification-in-china-on-track-but-challenging.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s6-e6-battery-industry-blues-consequences-of-the-ev-slowdown.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/china-the-unstoppable-ev-market.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-navigating-the-software-highway.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-consumer-survey-results-what-adas-features-drive-consumer-spending.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s6-e4-average-age-of-vehicles-in-the-us-hit-a-new-record.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-the-ceraweek-special.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-head-in-the-clouds.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/an-increasingly-fragile-mobility-and-energy-transition.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/changing-the-gear-to-sustain-the-future-south-korea-production-market.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ces-2024-ai-ui-ux.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/2023-case-closed.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e11-the-future-of-evs-and-alternative-propulsion.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-S5-E10-Waiting-for-Autonomy.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/too-many-toys-on-the-shelf.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/beijing-auto-show.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-an-electrifying-drive-the-next-phase-of-ev-propulsion-tech.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/self-driving-self-assessment-drivers-have-their-say.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/aging-population-transforming-market-chinese-competition-the-future-of-japanese-auto-market.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/hurdles-and-opportunities-in-creating-reliable-charging-infrastructure.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e3-navigating-turbulent-world-energy-climate.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ceraweek-2023.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-keeping-up-tesla-story-of-ee-Architecture.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-graphene-automotive.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e1-automotive-supply-chain-technology.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ces-wrap-up.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-euro-7-announcements.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/consumers-clamor-for-connected-content.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/electric-vehicles-do-consumers-even-want-them.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ev-charging-trends.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/global-battery-supply-chain.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/north-american-international-auto-show.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e9-how-inventory-and-loyalty-impact-investment.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-duotone-900.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-regular-400.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-sharp-solid-900.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    },
+    {
+      "url": "https://www.spglobal.com/etc.clientlibs/sp-aem-platform/clientlibs/platform-app/clientlib-resources/resources/fonts/webfonts/fa-solid-900.woff2",
+      "status": "content type is not text/html. Content type: application/octet-stream"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":24,\"E_403\":170,\"others\":4}",
+  "error": null
+}

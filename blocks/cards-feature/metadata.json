@@ -1,0 +1,38 @@
+{
+  "variantName": "cards-feature",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-02-09T17:53:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.avantorsciences.com/us/en/",
+    "originPage": "Avantor Sciences homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "featured-content",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + heading + description + CTA",
+    "buttonCount": 1,
+    "imageCount": 2
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "featured content sections",
+      "article cards with read more links",
+      "resource cards with descriptions"
+    ],
+    "notSuitableFor": [
+      "compact product grids",
+      "brand logo sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/us/en/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-02-09T17:53:00.000Z"
+  }
+}

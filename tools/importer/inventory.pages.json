@@ -1,0 +1,416 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.spglobal.com/en/daily-update-newsletter-subscription-request",
+          "uuid": "743a9d29cf8445d0403bd4a79ae8ba5bb2fe8d05"
+        },
+        {
+          "url": "https://www.spglobal.com/en/spgi-newsletter-subscription-request",
+          "uuid": "563240550382657b5487668ae1c6d558f03efbfc"
+        },
+        {
+          "url": "https://www.spglobal.com/market-intelligence/en",
+          "uuid": "e12231c0ff3800bb1ed5339932bea3ec41a8d4c1"
+        },
+        {
+          "url": "https://www.spglobal.com/commodity-insights/en/products-solutions/delivery/platts-connect",
+          "uuid": "30249460a4f36b9c882c8eb07676747b9d109832"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/events",
+          "uuid": "518381ddae15cf59bc860407b83b629ede9f6b58"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/rapid-impact-analysis",
+          "uuid": "85b0b9b3829e6ee5edc3ade246b74d28f372bc4b"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/theme/electric-vehicle-industry",
+          "uuid": "6e5be8b3421551f0289864dbb5e0f5952bc12117"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/theme/future-of-mobility",
+          "uuid": "e0afb8ceb431372e031b12a683df03f3d73981bd"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/credit-risk",
+          "uuid": "bca7643443d70dd6a250df53794b71fab6c53cd1"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports",
+          "uuid": "b9af754670c5de98820ab96cbee7c5e20ab5dba9"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/technology-ai",
+          "uuid": "c65b7017ca4b204fdf1f8e6974b8a8a6fb602d0f"
+        },
+        {
+          "url": "https://www.spglobal.com/en",
+          "uuid": "615ccdf054749f7d23e226e30f41602f0a78d5a8"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/look-forward-volume-6",
+          "uuid": "5bdd1f1f672af5f2ac5c97aabde67fa5de6741bb"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/energy-transition",
+          "uuid": "a4dad8be5f0d528fa87e49ffadb8baa095ef58ea"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/private-markets",
+          "uuid": "385b3d415a55817d6cc27a58fe16b94a69d6a593"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/podcasts",
+          "uuid": "1527847f6fd7077ae608a23d0146a520a32d47cb"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/look-forward-volume-5",
+          "uuid": "238df7561eb4edd6a75455c7c2e79902a08197de"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/capital-markets",
+          "uuid": "3ffd9272249e5c75f267972c5b40a63855258616"
+        },
+        {
+          "url": "https://www.spglobal.com/en/who-we-are/culture-engagement",
+          "uuid": "14867d6bb91504a5fb85e7bd852d7a018f663766"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/technology-solutions",
+          "uuid": "4fc3db411fef75ff363d2830c91a2d219f0fa60d"
+        },
+        {
+          "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-work",
+          "uuid": "fd67ce92fce415742b27c5efaf88f8edb090c190"
+        },
+        {
+          "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-culture",
+          "uuid": "8065c95bccdbc7175e329b7b17c6e9e18e17e58e"
+        },
+        {
+          "url": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/reports-commitments",
+          "uuid": "01b4abbef3796064b2d2a397a15c0fe3432d6180"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/the-ai-governance-challenge",
+          "uuid": "a65b6e85a0413edb8fe491dc74182c17d25b6df7"
+        },
+        {
+          "url": "https://www.spglobal.com/zh/spg-wechat-article",
+          "uuid": "6cdbcdba1b6fe830641b4855825d924d03275662"
+        },
+        {
+          "url": "https://www.spglobal.com/zh",
+          "uuid": "ff9d0e267f947d634de1b036168870765f98a395"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/zhang-jessie",
+          "uuid": "c14a3b6e63c007dc12d81faf473dc52f3ecec7da"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/song-hui",
+          "uuid": "239975c63546072649e9c1d941d6d3bb5da2e620"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/yang-jie",
+          "uuid": "d6d9e35b5a0e78dc7bb0c03e370a3c6053be6e86"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/lu-daokuan",
+          "uuid": "ac0b74d1a583b4d58509af54aeb37f49accb071e"
+        },
+        {
+          "url": "https://www.spglobal.com/en/esg-statements",
+          "uuid": "89e50f694c98d8777f6df9c65de7826c72237668"
+        },
+        {
+          "url": "https://www.spglobal.com/en/cookie-notice",
+          "uuid": "9e84117c288b393e2b30d7e9bf52f97a68efa034"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Template'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.spglobal.com/mobility/en/index.html",
+          "uuid": "5a82bef53f8aa17132feb5b9c4056928cdcadd5f"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/auto-private-offer-studio.html",
+          "uuid": "f56e1acd919b3fb6632f0ef6a4ee3d54aa1b6c80"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/automotive-consulting-services.html",
+          "uuid": "86efedf2b26f26cb0e796266f19c8fbbc9c4c73e"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/autointelligence-suite.html",
+          "uuid": "73fe9cd1613cab04ca38c91e3c77593237c6c63a"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-energy-and-utilities.html",
+          "uuid": "a63c90c3a33e0333e92d3abfafde134b3b4be961"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/automotive-loyalty-conquest-analytics.html",
+          "uuid": "bfa67f946b9e9adac464a19ab30f11bd19f93150"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-logistics-companies.html",
+          "uuid": "524b21a8c356356831c3a7cc4b19abf3735eca60"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/digital-automotive.html",
+          "uuid": "b1d671018072d649b2288bad08bc185dd0256df1"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-technology-companies.html",
+          "uuid": "e81490f5701d1276e4ecf8a552393b85c3cae57e"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/global-auto-demand-tracker.html",
+          "uuid": "b0a42d023430d5f1c48922d6da25d82c9be1d6b9"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/marketing-sales-dealer.html",
+          "uuid": "9ffa965df44acb477fd100718833be442585daa5"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/marketing-activation.html",
+          "uuid": "0540b691301d6a319cbe15d79cf96e85ce800148"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/worldview.html",
+          "uuid": "7b85f6dc0d6f29523398ad4e13aee24e996cff9b"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/parts-demand-and-fitment.html",
+          "uuid": "cbb89a6f838bcf07e02b2d159b91007796fcbd18"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive.html",
+          "uuid": "3763bc4aab2406758a27fe67500b05f391ae9295"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/technology-vio.html",
+          "uuid": "6a00eae65f133eb9e047d73e114824f7a0cbb96b"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/suppliers-aftermarket.html",
+          "uuid": "00fb026de49e60973b0f497cb766f6a794688203"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/autocreditinsight.html",
+          "uuid": "9806264337418b2825a7984c5874044ec2d6551c"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/auto-makers.html",
+          "uuid": "343e7b2b8010a407af4653de38faacb82c7598ab"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/solutions/ev-charging-infrastructure.html",
+          "uuid": "9c7a71c7134782043c7d887fcc35f3c1169bec8b"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/sales-optimization.html",
+          "uuid": "e77c0c9976f964f750a0ed6e9facec93188f8fb4"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=442940",
+          "uuid": "4353dd6eef44bd853f94f28ce559c70de2297ce4"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=442940&amp;subDivision=/mobility/en",
+          "uuid": "456a51a7b7949cf907dacf38f8f2c0d2c220ccd6"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=449373&amp;subDivision=/mobility/en",
+          "uuid": "b1d9d3c6f85323572e46097f209277fe613d78be"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/fleet-audiences.html",
+          "uuid": "1820e22790ba922da14d52abc8409fc447cbfe3c"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobilityinsight.html",
+          "uuid": "8e9a1691ab38ea26f61646cb4a844144c6ed274d"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/research-analysis/trucking-in-transition-potential-impacts-of-2025-policy-change.html",
+          "uuid": "b847f94d9663947e9985bea141d5ead3bed72633"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/research-analysis/fuel-for-thought-the-road-to-transformation-charting-the-cours.html",
+          "uuid": "e72695a2fad962008eac2663e10585cad03ea7b8"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/asean-autopodcast.html",
+          "uuid": "ace1bb810d8520430d5d1693b9340dfcd1453cd7"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-kitt-for-cars-making-ai-a-reality.html",
+          "uuid": "f0c840ec9a4c88227735ad106734782c600c3148"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/mapping-the-market-what-direction-are-navigation-systems-heading.html",
+          "uuid": "9f0237159fdbd2938d79f43aeb8e8126d631a3e1"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-the-future-of-automotive-lighting.html",
+          "uuid": "6427fbda1d9a516825bb5aed6f91b863e61d3db4"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/charging-up-australias-ev-future-automotive-market-dynamics.html",
+          "uuid": "775c8ae39a155729fb036e038f0783d707481ac8"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-holograms-in-motion.html",
+          "uuid": "3ef1b81c303437e3e8d027963d2bcc4aa9c255a1"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s6-e5-9-highlights-from-our-recent-consumer-survey-on-autonomous.html",
+          "uuid": "d3852d18b8e96e1075a80c29edc7418cf887a164"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/reality-bites-on-owning-automotive-os.html",
+          "uuid": "91e06c737279977064661de6b12a88177ed45f29"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-charging-trends.html",
+          "uuid": "905b2201141137aa979a7d91373e79b056e3be84"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-e-motor-technology-and-the-evolution-of-the-e-axle.html",
+          "uuid": "ccefb29ea681db15e7aae4fffee326c278289fec"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/low-voltage-batteries-for-an-electrified-future.html",
+          "uuid": "0963db4353e1a81b668c25a59e06e8a9a7389805"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/securing-raw-materials-in-the-eu.html",
+          "uuid": "5b6cb9f611b91b446ad0ae5f9b9b825cd7bd6ec8"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-are-recalls-a-thing-of-the-past.html",
+          "uuid": "99e4af17668b7cc5b885d03109b8a846abc7a0ce"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ep-6-accelerating-the-future-indias-mobility-transformation.html",
+          "uuid": "4b196cfd520d8ae87e12e7cf0596f5d6191dacf0"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/from-aspiration-to-reality-building-the-trail-to-vehicle-electrification.html",
+          "uuid": "93d099d75eda3060b65d53c9d88cc3a3529f0027"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ces-day-1-recap.html",
+          "uuid": "808892407225c40c3c5328d6c18f3957d76fa060"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-risk-analysis-of-building-gigafactories-in-europe.html",
+          "uuid": "35520712efe7f780bd555e3e27a3c75f3e0a7f8b"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e10-detroit-auto-show-2022-an-industry-in-transition.html",
+          "uuid": "a73f52ba530b6d8f19faebe56b8f0ef5410fa0df"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/paris-motor-show-a-recap.html",
+          "uuid": "9eebbf196a2571163605e499f8021a506e71f166"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/letting-go-consumer-sentiments-towards-automated-driving.html",
+          "uuid": "9319e49a641173ec06e883317f738b4638e09ec7"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/transformation-of-auto-retail.html",
+          "uuid": "579713ffed728afea9fb2ffa928637a338856b45"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/robotaxi-whats-the-latest-on-driverless-cars.html",
+          "uuid": "ed298212737d4781809e2b41676e387af41be8be"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ceraweek-2025.html",
+          "uuid": "50e6d39672b3e9c18f9d141f75e3057847f44ea3"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-embracing-electric-future-transportation.html",
+          "uuid": "648f350c19363e70ca6f25b370dd205489b4aecc"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-shifting-dynamics-in-the-lithium-iron-phosphate-battery-market.html",
+          "uuid": "fc60be170a6cd0c95d73a13e3f11ff97b9a260bd"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/ev-competition-rising-exports-the-china-auto-talk.html",
+          "uuid": "c7feb16c000ec627de37c8199b4d3672b05adc21"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/learnings-from-an-established-sustainable-supply-chain.html",
+          "uuid": "47850217483e006a1f3ab72b0c41208a4adafdca"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/charting-the-course-for-the-future-of-trucking.html",
+          "uuid": "86a3826aeb6a6ddf681af27041a16cdaf54150b6"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-a-more-practical-future-for-autonomous-vehicles.html",
+          "uuid": "ef5a462595909700533240537255a1033b38aa83"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e12.html",
+          "uuid": "35670470bdcdd37e9af3b9a2b12a4b855d0ea13d"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e12-connected-cars-and-the-automotive-revolution.html",
+          "uuid": "87246ce81648e238c3e08714b57693988d03c38a"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e2-old-way-selling-cars-wont-work.html",
+          "uuid": "21c0bd91d1d8cdb814646996f5c9c22357ade1bb"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/auto-safety-systems-calibration-challenges-and-opportunities.html",
+          "uuid": "86b775c1005b4a1a86eeb87399b93f92626fd6dc"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/autology-ces-thursday-recap.html",
+          "uuid": "5158aa0747be0f2eecab16578811618eb6181df9"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/commercial-vehicle-fleet-accelerates-zev-adoption.html",
+          "uuid": "e912aeba28a78643a9cdcb85630af43b98f94beb"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-2024-presidential-election-impacts-us-auto-industry.html",
+          "uuid": "5cf9538c9809bbc186ed18cb90331745d5dc836d"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s4-e13-global-mobility-forecasts-836m-units-in-2023.html",
+          "uuid": "08e9d6f50a92c350ad95b8b6420bc38a629a3ce8"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-tariffs-taxes-evs-road-ahead-global-auto-industry.html",
+          "uuid": "a600126256feb7123bbb8e0c3674be3b6fef2dc8"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/fuel-for-thought-s5-e4-industry-goes-electric-expect-shakeout.html",
+          "uuid": "65c59100c8210872d60b8af9671b88dff9786118"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive/warning-signs-path-to-mass-ev-adoption.html",
+          "uuid": "5f0777aab86c31cf0ef3de68e83410abe3c19679"
+        }
+      ]
+    }
+  ]
+}

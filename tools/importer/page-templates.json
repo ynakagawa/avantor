@@ -1,0 +1,56 @@
+{
+  "templates": [
+    {
+      "name": "avantor-homepage",
+      "urls": [
+        "https://www.avantorsciences.com/us/en/"
+      ],
+      "description": "Avantor Sciences homepage with hero banner, product category cards, promotional banners, brand cards, highlight cards, and featured content cards",
+      "blocks": [
+        {
+          "name": "hero-product",
+          "instances": [
+            "cx-page-slot.Section1 .avtr-card.Hero_Card"
+          ]
+        },
+        {
+          "name": "cards-category",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(1)"
+          ]
+        },
+        {
+          "name": "hero-promo",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(1) app-card:last-child .avtr-card.Feature_Card_Img_After",
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(4) .avtr-card.Content_Cta"
+          ]
+        },
+        {
+          "name": "cards-product",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(2)"
+          ]
+        },
+        {
+          "name": "cards-brand",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(3)"
+          ]
+        },
+        {
+          "name": "cards-highlight",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(5)"
+          ]
+        },
+        {
+          "name": "cards-feature",
+          "instances": [
+            "cx-page-slot.Section3 > app-cmscard-container:nth-of-type(6)"
+          ]
+        }
+      ]
+    }
+  ]
+}

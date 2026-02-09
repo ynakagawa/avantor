@@ -1,0 +1,38 @@
+{
+  "variantName": "cards-highlight",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-02-09T17:53:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.avantorsciences.com/us/en/",
+    "originPage": "Avantor Sciences homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "news-highlights",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + title + optional description",
+    "buttonCount": 0,
+    "imageCount": 4
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "news highlight sections",
+      "featured article grids",
+      "company announcement sections"
+    ],
+    "notSuitableFor": [
+      "product cards with CTAs",
+      "brand logo grids"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/us/en/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-02-09T17:53:00.000Z"
+  }
+}
