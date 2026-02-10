@@ -9,10 +9,16 @@ export default function decorate(block) {
     const li = document.createElement('li');
     li.classList.add('cms-card');
     moveInstrumentation(row, li);
-    while (row.firstElementChild) li.append(row.firstElementChild);
+    const cells = [...row.children];
+    const firstCell = cells[0];
+    const isCardLabel = firstCell && firstCell.textContent.trim().toLowerCase() === 'card';
+    (isCardLabel ? cells.slice(1) : cells).forEach((cell) => li.append(cell));
     [...li.children].forEach((div) => {
       if (div.children.length === 1 && div.querySelector('picture')) div.className = 'cards-product-card-image';
       else div.className = 'cards-product-card-body';
+    });
+    li.querySelectorAll('.cards-product-card-body p').forEach((p) => {
+      if (p.textContent.trim().toLowerCase() === 'card') p.remove();
     });
     ul.append(li);
   });
