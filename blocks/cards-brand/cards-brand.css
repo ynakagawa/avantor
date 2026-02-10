@@ -1,9 +1,14 @@
+/* Hide any non-list content (e.g. first row / header) so only cards show */
+.cards-brand > *:not(ul) {
+  display: none;
+}
+
 .cards-brand > ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   grid-gap: 24px;
 }
 

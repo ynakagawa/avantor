@@ -9,9 +9,13 @@ export default function decorate(block) {
     moveInstrumentation(row, li);
     while (row.firstElementChild) li.append(row.firstElementChild);
     [...li.children].forEach((div) => {
-      if (div.children.length === 1 && div.querySelector('picture')) div.className = 'cards-brand-card-image';
-      else div.className = 'cards-brand-card-body';
+      if (div.children.length === 1 && div.querySelector('picture')) {
+        div.className = 'cards-brand-card-image avtr-card-media';
+      } else {
+        div.className = 'cards-brand-card-body avtr-card-title';
+      }
     });
+    li.classList.add('avtr-card', 'Simple_Card');
     ul.append(li);
   });
   ul.querySelectorAll('picture > img').forEach((img) => {
