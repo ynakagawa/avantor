@@ -2,10 +2,12 @@ import { createOptimizedPicture } from '../../scripts/aem.js';
 import { moveInstrumentation } from '../../scripts/scripts.js';
 
 export default function decorate(block) {
+  block.classList.add('Auto-fit');
   /* change to ul, li */
   const ul = document.createElement('ul');
   [...block.children].slice(1).forEach((row) => {
     const li = document.createElement('li');
+    li.classList.add('cms-card');
     moveInstrumentation(row, li);
     while (row.firstElementChild) li.append(row.firstElementChild);
     [...li.children].forEach((div) => {
