@@ -1,16 +1,16 @@
 {
   "definitions": [
     {
-      "title": "Modal",
-      "id": "modal",
+      "title": "Cards Category",
+      "id": "cards-category",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/block/v1/block",
             "template": {
-              "name": "Modal",
-              "filter": "modal",
-              "model": "modal"
+              "name": "Cards Category",
+              "filter": "cards-category",
+              "model": "cards-category"
             }
           }
         }
@@ -19,23 +19,13 @@
   ],
   "models": [
     {
-      "id": "modal",
+      "id": "cards-category",
       "fields": [
         {
           "component": "text",
           "valueType": "string",
           "name": "classes",
           "label": "Style"
-        },
-        {
-          "component": "aem-content",
-          "name": "link",
-          "label": "Link"
-        },
-        {
-          "component": "text",
-          "name": "linkText",
-          "label": "Text"
         }
       ]
     }

@@ -13,10 +13,25 @@
       "button",
       "title",
       "hero",
+      "hero-product",
+      "hero-promo",
       "cards",
+      "cards-brand",
+      "cards-category",
+      "cards-feature",
+      "cards-highlight",
+      "cards-product",
       "columns",
       "fragment",
-      "quote"
+      "accordion",
+      "carousel",
+      "tabs",
+      "embed",
+      "modal",
+      "quote",
+      "search",
+      "table",
+      "video"
     ]
   },
   {
