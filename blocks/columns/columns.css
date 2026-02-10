@@ -1,6 +1,25 @@
+/* Section columns-container: single-column layout, content full width (no 3-column partition) */
+.section.columns-container {
+  display: block;
+}
+
+.section.columns-container > div {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.columns.columns-2-cols {
+  width: 100%;
+}
+
 .columns > div {
   display: flex;
   flex-direction: column;
+}
+
+.columns.columns-2-cols > div {
+  width: 100%;
 }
 
 .columns img {

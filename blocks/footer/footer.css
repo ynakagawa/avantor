@@ -1,20 +1,51 @@
+/* Match https://www.avantorsciences.com/us/en/ <footer cxskiplink="cx-footer" container> */
+
 footer {
-  background-color: var(--light-color);
+  background-color: white;
   font-size: var(--body-font-size-xs);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
+/* footer-wrapper: 100% width */
+footer .footer .footer-wrapper {
+  width: 100%;
+}
+
+/* First div container under footer-wrapper: 100% (not contained to 822px) */
+footer .footer .footer-wrapper > div {
+  width: 100%;
+  max-width: none;
   padding: 40px 24px 24px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+/* Column containing "Avantor": 50% (via grid first column) */
+footer .footer .footer-wrapper > div > div:first-child {
+  min-width: 0;
 }
 
 footer .footer p {
   margin: 0;
 }
 
+footer .footer a {
+  color: var(--link-color);
+}
+
+footer .footer a:hover {
+  color: var(--link-hover-color);
+}
+
+@media (width >= 600px) {
+  footer .footer .footer-wrapper > div {
+    grid-template-columns: 50% 1fr 1fr;
+  }
+}
+
 @media (width >= 900px) {
-  footer .footer > div {
+  footer .footer .footer-wrapper > div {
     padding: 40px 32px 24px;
   }
 }
