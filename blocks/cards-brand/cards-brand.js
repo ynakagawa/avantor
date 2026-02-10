@@ -7,7 +7,10 @@ export default function decorate(block) {
   [...block.children].slice(1).forEach((row) => {
     const li = document.createElement('li');
     moveInstrumentation(row, li);
-    while (row.firstElementChild) li.append(row.firstElementChild);
+    const cells = [...row.children];
+    const firstCell = cells[0];
+    const isCardLabel = firstCell && firstCell.textContent.trim().toLowerCase() === 'card';
+    (isCardLabel ? cells.slice(1) : cells).forEach((cell) => li.append(cell));
     [...li.children].forEach((div) => {
       if (div.children.length === 1 && div.querySelector('picture')) {
         div.className = 'cards-brand-card-image avtr-card-media';

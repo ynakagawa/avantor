@@ -1,8 +1,9 @@
-/* Matches Avantor app-simple-card-ui (Feature_Card_Img_After): content left, image right */
+/* Matches Avantor homepage: image left, content right */
 
 .hero-promo-container .hero-promo-wrapper {
   max-width: unset;
   padding: 0;
+  background-color: #ebebe6;
 }
 
 .hero-promo {
@@ -10,30 +11,35 @@
   flex-direction: row;
   align-items: stretch;
   gap: 0;
-  min-height: 567px;
+  min-height: 190px;
   padding: 40px 24px;
+  margin-left: 300px;
   position: relative;
+  background-color: #ebebe6;
 }
 
-/* Content column (left) - matches card body area */
+/* Content column (right) - max 819px, left-aligned */
 .hero-promo > div:last-child {
-  order: 1;
-  flex: 0 1 auto;
-  max-width: 656px;
+  order: 2;
+  flex: 1 1 auto;
+  max-width: 819px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-width: 0;
 }
 
-/* Image column (right) - flush right, fixed size */
+/* Image column (left) - max 400px, image right-aligned with 30px padding */
 .hero-promo > div:first-child {
-  order: 2;
-  flex: 0 0 788px;
-  width: 788px;
-  height: 567px;
-  margin-left: auto;
-  min-width: 788px;
+  order: 1;
+  flex: 0 0 auto;
+  max-width: 400px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px;
+  box-sizing: border-box;
+  min-width: 0;
 }
 
 .hero-promo h1,
@@ -42,7 +48,7 @@
 .hero-promo h4,
 .hero-promo h5,
 .hero-promo h6 {
-  max-width: 656px;
+  max-width: 819px;
   margin-left: 0;
   margin-right: auto;
   margin-bottom: 0.5em;
@@ -51,7 +57,7 @@
 }
 
 .hero-promo p {
-  max-width: 656px;
+  max-width: 819px;
   width: 100%;
   height: auto;
   margin-left: 0;
@@ -83,18 +89,18 @@
   margin-right: auto;
 }
 
-/* Image column content */
+/* Image column content - image right-aligned within container */
 .hero-promo > div:first-child picture {
   display: block;
-  width: 788px;
-  height: 567px;
+  max-width: 100%;
   box-sizing: border-box;
 }
 
 .hero-promo > div:first-child img {
   object-fit: cover;
-  width: 788px;
-  height: 567px;
+  width: 261px;
+  height: 190px;
+  max-width: 100%;
   display: block;
 }
 
@@ -109,17 +115,19 @@
   .hero-promo {
     flex-direction: column;
     min-height: auto;
+    margin-left: 0;
   }
 
   .hero-promo > div:first-child {
     order: 1;
     flex: none;
     width: 100%;
-    max-width: 788px;
+    max-width: 400px;
     height: auto;
-    aspect-ratio: 788 / 567;
+    aspect-ratio: 261 / 190;
     margin-left: 0;
     min-width: 0;
+    padding: 30px;
   }
 
   .hero-promo > div:last-child {
@@ -131,6 +139,6 @@
   .hero-promo > div:first-child img {
     width: 100%;
     height: auto;
-    aspect-ratio: 788 / 567;
+    aspect-ratio: 261 / 190;
   }
 }
