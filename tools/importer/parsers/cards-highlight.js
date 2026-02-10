@@ -4,16 +4,17 @@
 /**
  * Parser for cards-highlight block
  *
- * Source: https://www.avantorsciences.com/us/en/
+ * Reference: https://www.avantorsciences.com/us/en/ (Highlights section)
  * Base Block: cards
  *
  * Block Structure (from markdown):
- * - Each row = 1 card (2 columns: image | title + optional description + optional link)
+ * - Section title "Highlights" rendered by block; each row = 1 card (image | title + optional description + link)
+ * - First card is featured (app-card.highlighted on source)
  *
  * Source HTML Pattern (Spartacus):
  * app-cmscard-container
  *   h2.av-cards-title                     (section heading - NOT part of block)
- *   .Highlights > app-card                (card items, Simple_Card type)
+ *   .Highlights > app-card                (card items, Simple_Card type; first may have .highlighted)
  *     .avtr-card.Simple_Card
  *       .avtr-card-media cx-media img     (card image)
  *       .avtr-card-title app-generic-link a  (linked or plain title)

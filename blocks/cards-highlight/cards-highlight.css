@@ -1,15 +1,113 @@
-.cards-highlight > ul {
+/* Matches https://www.avantorsciences.com/us/en/ Highlights section:
+   container, h2 "Highlights", grid of cards with first card as featured (app-card.highlighted) */
+
+.cards-highlight .cards-highlight-container {
+  width: 100%;
+}
+
+.cards-highlight .cards-highlight-container h2 {
+  margin: 0 0 1rem;
+  font-size: var(--heading-font-size-xl);
+  font-family: var(--heading-font-family);
+}
+
+/* Card list: col1 820px (card 1), col2 454px (cards 2–4 stacked); card 1 left, 2–4 right */
+.cards-highlight .cards-highlight-container > ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
+  grid-template-columns: 820px 455px;
+  grid-template-rows: auto auto auto;
   grid-gap: 24px;
+  max-width: 100%;
 }
 
-.cards-highlight > ul > li {
+@media (width < 1300px) {
+  .cards-highlight .cards-highlight-container > ul {
+    grid-template-columns: 1fr;
+  }
+
+  .cards-highlight .cards-highlight-container > ul > li:nth-child(1),
+  .cards-highlight .cards-highlight-container > ul > li:nth-child(2),
+  .cards-highlight .cards-highlight-container > ul > li:nth-child(3),
+  .cards-highlight .cards-highlight-container > ul > li:nth-child(4) {
+    grid-column: 1;
+    grid-row: auto;
+  }
+}
+
+.cards-highlight .cards-highlight-container > ul > li {
   border: 1px solid #dadada;
   background-color: var(--background-color);
+}
+
+/* Card 1: 820px, left, spans 3 rows; reference app-card.highlighted */
+.cards-highlight .cards-highlight-container > ul > li:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1 / 4;
+  width: 100%;
+  max-width: 820px;
+  border-color: var(--link-color, #005eb8);
+  box-shadow: 0 2px 8px rgba(0 94 184 / 0.12);
+}
+
+/* Cards 2–4: 454px, right column, stacked; reference app-card.unhighlighted */
+.cards-highlight .cards-highlight-container > ul > li:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+}
+.cards-highlight .cards-highlight-container > ul > li:nth-child(3) {
+  grid-column: 2;
+  grid-row: 2;
+}
+.cards-highlight .cards-highlight-container > ul > li:nth-child(4) {
+  grid-column: 2;
+  grid-row: 3;
+}
+
+/* Cards 5+: full width below */
+.cards-highlight .cards-highlight-container > ul > li:nth-child(n+5) {
+  grid-column: 1 / -1;
+}
+
+/* 2nd–4th cards: 455×144px container, image 144×105 left, content right; align top */
+.cards-highlight .cards-highlight-container > ul > li.unhighlighted {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 455px;
+  height: 144px;
+  max-width: 100%;
+  border-color: #e5e5e5;
+  border-bottom: 1px solid #001551;
+  box-shadow: none;
+  background-color: var(--background-color);
+}
+
+.cards-highlight .cards-highlight-container > ul > li.unhighlighted .cards-highlight-card-image {
+  flex-shrink: 0;
+  width: 144px;
+  height: 105px;
+  line-height: 0;
+}
+
+.cards-highlight .cards-highlight-container > ul > li.unhighlighted .cards-highlight-card-image img {
+  width: 144px;
+  height: 105px;
+  aspect-ratio: auto;
+  object-fit: cover;
+}
+
+.cards-highlight .cards-highlight-container > ul > li.unhighlighted .cards-highlight-card-body {
+  flex: 1;
+  min-width: 0;
+  height: 144px;
+  max-height: 144px;
+  margin: 0 16px;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 .cards-highlight .cards-highlight-card-body {
@@ -20,7 +118,7 @@
   line-height: 0;
 }
 
-.cards-highlight > ul > li img {
+.cards-highlight .cards-highlight-container > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
